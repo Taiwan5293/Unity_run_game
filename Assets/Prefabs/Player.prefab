@@ -82,8 +82,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1845885405
-  m_SortingLayer: 4
-  m_SortingOrder: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: 72de0c64f2c6a498096698322c976a67, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -174,9 +174,6 @@ MonoBehaviour:
   DidColl: {fileID: 0}
   CellingCheck: {fileID: 4398011188588381934}
   GroundCheck: {fileID: 0}
-  jumpAudio: {fileID: 1995846130}
-  hurtAudio: {fileID: 1995846131}
-  cherryAudio: {fileID: 662019314145301953}
   joystick: {fileID: 0}
   speed: 300
   JumpForce: 450
